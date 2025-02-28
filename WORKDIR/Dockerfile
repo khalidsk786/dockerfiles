@@ -3,4 +3,4 @@ RUN mkdir /tmp/work-dir-demo
 WORKDIR /tmp/wprk-dir-demo
 RUN pwd
 RUN echo "Hello work directory">hello.text
-CMD ["sleep" "100"]
+CMD ["sleep","100"]
