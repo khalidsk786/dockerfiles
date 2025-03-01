@@ -1,1 +1,1 @@
-<h1> this is for onbuild testing </h1>
+FROM onbuild:1.0.0
